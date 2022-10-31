@@ -22,7 +22,6 @@ you can search name of a manga and download chapter you want or you can see all 
 
 
 
-![Uploading all.png…]()
 
 
 
@@ -30,5 +29,6 @@ you can search name of a manga and download chapter you want or you can see all 
 
 
 
+![search](https://user-images.githubusercontent.com/65117441/198952735-c929e1ce-2c4f-4d17-95b4-3d719c80f8de.png)
 
 thanks for using.
