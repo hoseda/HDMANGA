@@ -1,4 +1,4 @@
-# HMANGA
+# HDMANGA
 find a manga and download as pdf in terminal.
 
 this script made for people who work with terminal and linux and doesnt have gui form yet.
